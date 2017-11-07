@@ -10,5 +10,7 @@ namespace WebApi_01.Models
         public string Key { get; set; }
         public string Name { get; set; }
         public bool IsComplete { get; set; }
+        public string Hello { get; set; }
+        
     }
 }
